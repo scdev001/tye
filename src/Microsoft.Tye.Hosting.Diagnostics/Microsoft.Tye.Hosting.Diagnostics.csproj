@@ -1,10 +1,12 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <Description>Diagnostics collector and exporter for .NET Core applications.</Description>
     <AssemblyName>Microsoft.Tye.Hosting.Diagnostics</AssemblyName>
     <PackageId>Microsoft.Tye.Hosting.Diagnostics</PackageId>
+    <AssemblyVersion>2026.4.25551.2</AssemblyVersion>
+    <FileVersion>2026.4.25551.2</FileVersion>
   </PropertyGroup>
 
   <!--

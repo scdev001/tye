@@ -1,15 +1,16 @@
 {
   "sdk": {
-    "allowPrerelease": true
+    "version": "8.0.426",
+    "allowPrerelease": false
   },
   "tools": {
-    "dotnet": "8.0.100-preview.3.23178.7",
+    "dotnet": "8.0.426",
     "runtimes": {
       "dotnet": [
-        "6.0.0"
+        "8.0.0"
       ],
       "aspnetcore": [
-        "6.0.0"
+        "8.0.0"
       ]
     }
   },

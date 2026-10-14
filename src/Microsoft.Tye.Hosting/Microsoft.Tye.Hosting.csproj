@@ -1,13 +1,15 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <OutputType>Library</OutputType>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <Description>Orchestration host APIs.</Description>
     <AssemblyName>Microsoft.Tye.Hosting</AssemblyName>
     <PackageId>Microsoft.Tye.Hosting</PackageId>
     <GenerateEmbeddedFilesManifest>true</GenerateEmbeddedFilesManifest>
     <NoDefaultLaunchSettingsFile>true</NoDefaultLaunchSettingsFile>
+    <AssemblyVersion>2026.4.25551.2</AssemblyVersion>
+    <FileVersion>2026.4.25551.2</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>

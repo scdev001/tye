@@ -1,12 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <AssemblyName>Microsoft.Tye.UnitTests</AssemblyName>
     <IsTestProject>true</IsTestProject>
     <IsUnitTestProject>true</IsUnitTestProject>
     <IsPackable>false</IsPackable>
     <TestRunnerName>XUnit</TestRunnerName>
+    <AssemblyVersion>2026.4.25551.2</AssemblyVersion>
+    <FileVersion>2026.4.25551.2</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>

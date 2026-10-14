@@ -1,11 +1,13 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <IsPackable>false</IsPackable>
     <TestRunnerName>XUnit</TestRunnerName>
     <Nullable>disable</Nullable>
     <IsTestProject>false</IsTestProject>
+    <AssemblyVersion>2026.4.25551.2</AssemblyVersion>
+    <FileVersion>2026.4.25551.2</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
